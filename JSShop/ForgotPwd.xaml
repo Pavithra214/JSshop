@@ -1,0 +1,47 @@
+﻿<Window x:Class="JSShop.ForgotPwd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JSShop"
+        mc:Ignorable="d"
+        Title="ForgotPwd"  Background="DarkGray" Height="400" Width="300" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None">
+    <StackPanel HorizontalAlignment="Center" Orientation="Vertical" Margin="20">
+        <TextBlock Text="Change the Password" FontSize="20" HorizontalAlignment="Center">
+       
+        </TextBlock>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock  FontSize="14" Text="Old Password" Grid.Row="0" Margin="0,15"></TextBlock>
+            <PasswordBox Foreground="Gray" PasswordChar="*" Password="Old Password" x:Name="txtname" Grid.Row="1"></PasswordBox>
+            <TextBlock  FontSize="14" Text="New Password"  Grid.Row="2" Margin="0,15"></TextBlock>
+            <PasswordBox Foreground="Gray" PasswordChar="*" Password="Old Password"   Grid.Row="3"></PasswordBox>
+            <TextBlock  FontSize="14" Text="Confirm the new Password"  Grid.Row="4" Margin="0,15"></TextBlock>
+            <PasswordBox Foreground="Gray" PasswordChar="*" Password="Old Password"   Grid.Row="5"></PasswordBox>
+        </Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+        <Button Content="Change the Password" Background="YellowGreen" Margin="0,20" Width="140" Height="40">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="18"></Setter>
+                </Style>
+            </Button.Resources>
+        </Button>
+            <Button Content="Cancel" x:Name="BtnCancel" Click="BtnCancel_Click"  Background="YellowGreen" Margin="20,20" Width="80" Height="40">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="18"></Setter>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

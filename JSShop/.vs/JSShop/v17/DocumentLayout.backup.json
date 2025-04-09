@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\JSShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\forgotpwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:forgotpwd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\demo\\derivedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:demo\\derivedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\demo\\secondaryemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:demo\\secondaryemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\commonshop\\loginsyncv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:commonshop\\loginsyncv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\globalnamespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:globalnamespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\forgotpwd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:forgotpwd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\jsshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:jsshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\commonshop\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:commonshop\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\commonshop\\filevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:commonshop\\filevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\commonshop\\validationshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:commonshop\\validationshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\model\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:model\\reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|d:\\c#\\jsshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A22829B-E545-4648-8499-37E0C04C4C52}|JSShop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Demo\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo\\Employee.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Demo\\Employee.cs",
+              "RelativeToolTip": "Demo\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:47:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DerivedEmployee.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Demo\\DerivedEmployee.cs",
+              "RelativeDocumentMoniker": "Demo\\DerivedEmployee.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Demo\\DerivedEmployee.cs",
+              "RelativeToolTip": "Demo\\DerivedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:47:59.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Register.xaml.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Register.xaml.cs",
+              "RelativeToolTip": "Register.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:07:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Register.xaml",
+              "RelativeDocumentMoniker": "Register.xaml",
+              "ToolTip": "D:\\C#\\JSShop\\Register.xaml",
+              "RelativeToolTip": "Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T10:23:16.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:05:17.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "D:\\C#\\JSShop\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T10:52:22.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPwd.xaml",
+              "DocumentMoniker": "D:\\C#\\JSShop\\ForgotPwd.xaml",
+              "RelativeDocumentMoniker": "ForgotPwd.xaml",
+              "ToolTip": "D:\\C#\\JSShop\\ForgotPwd.xaml",
+              "RelativeToolTip": "ForgotPwd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T18:09:01.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\C#\\JSShop\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\C#\\JSShop\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T11:16:36.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecondaryEmp.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Demo\\SecondaryEmp.cs",
+              "RelativeDocumentMoniker": "Demo\\SecondaryEmp.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Demo\\SecondaryEmp.cs",
+              "RelativeToolTip": "Demo\\SecondaryEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:48:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginSyncV2.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\CommonShop\\LoginSyncV2.cs",
+              "RelativeDocumentMoniker": "CommonShop\\LoginSyncV2.cs",
+              "ToolTip": "D:\\C#\\JSShop\\CommonShop\\LoginSyncV2.cs",
+              "RelativeToolTip": "CommonShop\\LoginSyncV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:48:00.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalNamespace.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\GlobalNamespace.cs",
+              "RelativeDocumentMoniker": "GlobalNamespace.cs",
+              "ToolTip": "D:\\C#\\JSShop\\GlobalNamespace.cs",
+              "RelativeToolTip": "GlobalNamespace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:52:27.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPwd.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\ForgotPwd.xaml.cs",
+              "RelativeDocumentMoniker": "ForgotPwd.xaml.cs",
+              "ToolTip": "D:\\C#\\JSShop\\ForgotPwd.xaml.cs",
+              "RelativeToolTip": "ForgotPwd.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:11:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\CommonShop\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "CommonShop\\ExtensionMethod.cs",
+              "ToolTip": "D:\\C#\\JSShop\\CommonShop\\ExtensionMethod.cs",
+              "RelativeToolTip": "CommonShop\\ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:47:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reg.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Model\\Reg.cs",
+              "RelativeDocumentMoniker": "Model\\Reg.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Model\\Reg.cs",
+              "RelativeToolTip": "Model\\Reg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:06:37.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JSShop.csproj",
+              "DocumentMoniker": "D:\\C#\\JSShop\\JSShop.csproj",
+              "RelativeDocumentMoniker": "JSShop.csproj",
+              "ToolTip": "D:\\C#\\JSShop\\JSShop.csproj",
+              "RelativeToolTip": "JSShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T07:05:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationShop.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\CommonShop\\ValidationShop.cs",
+              "RelativeDocumentMoniker": "CommonShop\\ValidationShop.cs",
+              "ToolTip": "D:\\C#\\JSShop\\CommonShop\\ValidationShop.cs",
+              "RelativeToolTip": "CommonShop\\ValidationShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:04:25.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileValidation.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\CommonShop\\FileValidation.cs",
+              "RelativeDocumentMoniker": "CommonShop\\FileValidation.cs",
+              "ToolTip": "D:\\C#\\JSShop\\CommonShop\\FileValidation.cs",
+              "RelativeToolTip": "CommonShop\\FileValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:17:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\C#\\JSShop\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:58:29.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Home.xaml",
+              "RelativeDocumentMoniker": "Home.xaml",
+              "ToolTip": "D:\\C#\\JSShop\\Home.xaml",
+              "RelativeToolTip": "Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T10:53:05.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Home.xaml.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Home.xaml.cs",
+              "RelativeToolTip": "Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:27:41.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\JSShop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:41:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\C#\\JSShop\\Common.cs",
+              "RelativeDocumentMoniker": "Common.cs",
+              "ToolTip": "D:\\C#\\JSShop\\Common.cs",
+              "RelativeToolTip": "Common.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwI8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:13:16.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\JSShop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\C#\\JSShop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T12:41:53.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
